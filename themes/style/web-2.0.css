@@ -43,6 +43,10 @@ mark {
   font-weight: bold;
 }
 
+body {
+	background-image: url(../../background.jpg)
+}
+
 del {
   text-decoration: line-through;
 }
@@ -432,7 +436,7 @@ a:hover, a:focus {
 .deck-container {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   font-size: 1.75em;
-  background: #f4fafe;
+  background: url(../../background.jpg)
   /* Old browsers */
   background: -moz-linear-gradient(top, #f4fafe 0%, #ccf0f0 100%);
   /* FF3.6+ */
