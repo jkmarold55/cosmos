@@ -436,19 +436,19 @@ a:hover, a:focus {
 .deck-container {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   font-size: 1.75em;
-  background: url(../../background.jpg)
+  background: url(../../background.jpg);
   /* Old browsers */
-  background: -moz-linear-gradient(top, #f4fafe 0%, #ccf0f0 100%);
+  background: url(../../background.jpg);
   /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #f4fafe), color-stop(100%, #ccf0f0));
+  background: url(../../background.jpg);
   /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top, #f4fafe 0%, #ccf0f0 100%);
+  background: url(../../background.jpg)
   /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top, #f4fafe 0%, #ccf0f0 100%);
+  background: url(../../background.jpg)
   /* Opera11.10+ */
-  background: -ms-linear-gradient(top, #f4fafe 0%, #ccf0f0 100%);
+  background: url(../../background.jpg)
   /* IE10+ */
-  background: linear-gradient(top, #f4fafe 0%, #ccf0f0 100%);
+  background: url(../../background.jpg)
   /* W3C */
   background-attachment: fixed;
   text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
