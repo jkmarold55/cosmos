@@ -319,7 +319,7 @@ h3 {
 
 pre {
   border-color: #cde;
-  background: #fff;
+  background: url(../../background.jpg);
   position: relative;
   z-index: auto;
   border-radius: 5px;
