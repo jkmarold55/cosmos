@@ -437,19 +437,6 @@ a:hover, a:focus {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   font-size: 1.75em;
   background: url(../../background.jpg);
-  /* Old browsers */
-  background: url(../../background.jpg);
-  /* FF3.6+ */
-  background: url(../../background.jpg);
-  /* Chrome,Safari4+ */
-  background: url(../../background.jpg);
-  /* Chrome10+,Safari5.1+ */
-  background: url(../../background.jpg);
-  /* Opera11.10+ */
-  background: url(../../background.jpg);
-  /* IE10+ */
-  background: url(../../background.jpg);
-  /* W3C */
   background-attachment: fixed;
   text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
 }
