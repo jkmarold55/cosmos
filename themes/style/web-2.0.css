@@ -436,7 +436,7 @@ a:hover, a:focus {
 .deck-container {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   font-size: 1.75em;
-  background: url(../../background.jpg);
+  background: #08455f;
   background-attachment: fixed;
   text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
 }
